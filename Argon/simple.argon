@@ -1,0 +1,8 @@
+func mainw ^(){
+    print(1);
+    return 1;
+}
+
+
+
+<CALLER> "mainw" ^();
